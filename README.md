@@ -26,7 +26,7 @@ A scalable, optimized, and secure real-time operating system (RTOS) supporting m
 
 ## 📈 GitHub Stats
 
-![Azam Lukman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzamLukman&show_icons=true&theme=tokyonight)
+![Azam Lukman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzamLukman&show_icons=true&theme=tokyonight&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamLukman&layout=compact&theme=tokyonight)
 
 ---
