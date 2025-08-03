@@ -9,8 +9,8 @@ A scalable, optimized, and secure real-time operating system (RTOS) supporting m
 
 **Languages & Technologies:**
 - C, C++, Python, Assembly
-- CMake, Shell scripting, Perl, Linker Scripts
-- Gherkin, Tcl, Verilog, Haskell, Batchfile, Smalltalk, Cadence
+- CMake, Shell scripting, Linker Scripts
+- Verilog
 
 **Key Interests:**
 - Embedded systems development
@@ -20,9 +20,9 @@ A scalable, optimized, and secure real-time operating system (RTOS) supporting m
 ## 🛠️ My Toolbox
 - Embedded C/C++ programming
 - Build automation (CMake, Shell)
-- Scripting (Python, Perl)
+- Scripting (Python)
 - Hardware interfacing (Assembly, Verilog)
-- Automated testing (Gherkin, Tcl)
+- IoT & Data Platforms: LoRa, ChirpStack, Node-RED, Grafana, MongoDB, InfluxDB, PostgreSQL
 
 ## 📈 GitHub Stats
 
